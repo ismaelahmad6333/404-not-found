@@ -3,7 +3,7 @@
 <h1 align="center">{Your project name}</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" >Devchallenges.io</a>.
+   Solution for a challenge from  <a href="http://devchallenges.io](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" >Devchallenges.io</a>.
 </div>
 
 <div align="center">
