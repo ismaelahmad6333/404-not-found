@@ -22,7 +22,7 @@
 
  Create a 404 not found page following the design. The page should be responsive. Don’t look at the existing solution. Fulfill user stories below:
 ###User story
-  - I can see a page following the given <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" target="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY" >Design.</a>
+  - I can see a page following the given <a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE" target="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE" >Design.</a>
 
 <!-- OVERVIEW -->
 
